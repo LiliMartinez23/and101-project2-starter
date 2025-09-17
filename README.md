@@ -18,7 +18,7 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [ ] 👋 Debug and fix navigation to Hello World activity
+- [x] 👋 Debug and fix navigation to Hello World activity
 - [ ] 4️⃣ Debug and fix Number Sum (2 + 2) activity
 - [ ] 📅 Debug and fix Current Day activity 
 - [ ] 🌈 Debug and fix behavior of Random Color activity
