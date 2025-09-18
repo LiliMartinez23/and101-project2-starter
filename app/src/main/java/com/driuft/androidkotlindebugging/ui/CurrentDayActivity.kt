@@ -16,7 +16,8 @@ class CurrentDayActivity : AppCompatActivity() {
         setContentView(R.layout.activity_current_day)
 
         currentDayText = findViewById(R.id.current_day_text)
-        currentDayText.text = getString(getDayOfMonth())
+//        Correction: Wrong way to convert to String
+        currentDayText.text = getDayOfMonth().toString()
     }
 
     private fun getDayOfMonth(): Int {
