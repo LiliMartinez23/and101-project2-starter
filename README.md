@@ -40,9 +40,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
 My Video:
-<video width="320" height="240" controls>
-  <source src="project-2-demo" type="video/mp4">
-</video>
+![](project-2-demo.mp4)
 
 GIF created with **your chosen GIF tool**
 
