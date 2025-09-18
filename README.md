@@ -19,11 +19,11 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 The following REQUIRED features are completed:
 
 - [x] 👋 Debug and fix navigation to Hello World activity
-- [ ] 4️⃣ Debug and fix Number Sum (2 + 2) activity
-- [ ] 📅 Debug and fix Current Day activity 
-- [ ] 🌈 Debug and fix behavior of Random Color activity
-- [ ] 🗒️ Debug and fix Print List activity
-- [ ] 💯 Debug and fix Favorite Number activity
+- [x] 4️⃣ Debug and fix Number Sum (2 + 2) activity
+- [x] 📅 Debug and fix Current Day activity 
+- [x] 🌈 Debug and fix behavior of Random Color activity
+- [x] 🗒️ Debug and fix Print List activity
+- [x] 💯 Debug and fix Favorite Number activity
 
 The following STRETCH features are implemented:
 
@@ -39,6 +39,11 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
+My Video:
+<video width="320" height="240" controls>
+  <source src="project-2-demo" type="video/mp4">
+</video>
+
 GIF created with **your chosen GIF tool**
 
 <!-- Recommended tools:
@@ -48,11 +53,11 @@ GIF created with **your chosen GIF tool**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+Here's a place for any other notes on the app, its creation process, or what you learned this unit!
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2025** **Liliana Martinez**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
